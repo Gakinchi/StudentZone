@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudentZone
 
 _italic text here_
@@ -5,9 +6,6 @@ _italic text here_
 **bold text here**
 _Underline this_ **bold that**
 
-# Main Header
-# Main Header
-# Main Header
 # Main Header
 ## Subheader
 ### Sub Sub Header
@@ -33,3 +31,6 @@ All this will be
 in one line...
 
 Except when it's separated with 1 linespace.
+=======
+# StudentZone
+>>>>>>> parent of f09514f... Update README.md
